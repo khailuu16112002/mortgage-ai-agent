@@ -47,8 +47,8 @@ source venv/bin/activate        # Mac/Linux
 
 pip install -r requirements.txt
 
-cp .env.example .env
-# Mở .env → điền ANTHROPIC_API_KEY
+cp .env
+# Mở .env → điền OPENAI_API_KEY
 ```
 
 ---
